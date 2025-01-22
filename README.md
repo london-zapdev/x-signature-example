@@ -8,8 +8,10 @@ To install the necessary dependencies, run:
 
 ```bash
 npm install
+```
 
 ## How to Run
 
 ```bash
 npm run start
+```
